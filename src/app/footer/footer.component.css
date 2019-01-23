@@ -1,0 +1,27 @@
+footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	position: relative;
+	bottom: 0;
+	z-index: 300;
+	background: #222830;
+	font-family: 'Roboto';
+    min-height: 24px;
+    color: #fff !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+	margin: 0px 0px 0px 0px;
+    padding: 12px 20px;
+}
+@media only screen and (max-width: 770px) {
+  footer {
+  	position: relative;
+  }
+}
+
+p {
+	margin: 0px;
+}

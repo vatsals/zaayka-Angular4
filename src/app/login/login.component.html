@@ -1,0 +1,42 @@
+<div class="alert" style="display: none;" #alert>
+  <span style="display: flex; flex: 3; justify-content: flex-end;">Invalid Email/Password</span>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+</div>
+<div class="alert success" style="display: none;" #alertSucc>
+  <span style="display: flex; flex: 3; justify-content: flex-end;">Successfully Logged In</span>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+</div>
+<div class="container" style="margin: 20px 0px;">
+  <div class="row">
+    <div class="col-sm-3 col-mg-3 col-lg-3"></div>
+    <div class="col-sm-6 col-xs-12 shadow">
+
+<form *ngIf="!currentUser()" novalidate #f="ngForm" (ngSubmit)="onSubmit(f)" (keydown)="keyDownFunction($event)">
+  <div class="forgotSign">
+  <div class="imgcontainer">
+    <img src="assets/images/img_avatar2.png" alt="Avatar" class="avatar">
+  </div>
+
+  <div style="padding: 30px;">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" #userEmail placeholder="Enter Username" name="email" id="umail" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" #userPassword placeholder="Enter Password" id="upass" name="password" required>
+        
+    <button [disabled]="!f.valid" type="submit" (click)="signIn()">Login</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <!--<div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>-->
+</div>
+</form>
+</div>
+<div class="col-sm-3 col-mg-3 col-lg-3"></div>
+</div>
+</div>

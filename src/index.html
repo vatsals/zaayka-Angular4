@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>ZomatoApp</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+  <!-- Responsive -->
+  <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+
+  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-datetimepicker.min.css">
+
+<!-- Animation Style -->
+  <link rel="stylesheet" type="text/css" href="assets/css/animate.css">
+
+</head>
+<body>
+  <app-root></app-root>
+  <script src="assets/javascript/jquery.min.js"></script>
+  <script src="assets/javascript/tether.min.js"></script>
+  <script src="assets/javascript/bootstrap.min.js"></script>
+  <script src="assets/javascript/jquery.easing.js"></script>
+  <script src="assets/javascript/jquery-waypoints.js"></script>
+  <script src="assets/javascript/jquery-countTo.js"></script>
+  <script src="assets/javascript/gmap3.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxlHaX-MF1tQYJhjpk3w1aJwToJ2Di3BQ"></script>
+  <script src="assets/javascript/jquery.cookie.js"></script>
+   <script src="assets/javascript/bootstrap-datetimepicker.js"></script>
+  <script src="assets/javascript/bootstrap-datetimepicker.fr.js"></script>
+  <script  src="assets/javascript/jquery.flexslider-min.js"></script>
+
+  <script src="assets/javascript/parallax.js"></script>
+  <script src="assets/javascript/smoothscroll.js"></script>
+
+  <script src="assets/javascript/main.js"></script>
+  <script>
+function openModal() {
+  document.getElementById('myModal').style.display = "block";
+}
+
+function closeModal() {
+  document.getElementById('myModal').style.display = "none";
+}
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+
+</script>
+
+</body>
+</html>

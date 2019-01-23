@@ -1,0 +1,406 @@
+<body class="header_sticky">
+    <div class="alert" style="display: none;" #alert2>
+      <span style="display: flex; flex: 3; justify-content: flex-end;">Something Unexpected Occured</span>
+      <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+    </div>
+    <div class="alert success" style="display: none;" #alertSucc2>
+      <span style="display: flex; flex: 3; justify-content: flex-end;">Successfully Posted Review</span>
+      <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+    </div>
+    <!-- Boxed -->
+    <div class="boxed">
+
+
+    <!-- Page title -->
+    <div class="page-title style2">
+        <div class="flat-maps">
+            <div style="width: 100%; height: 268px; ">
+                <img src="assets/images/fake.jpg" alt="banner" style="opacity: 0.7; width:100%">
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="wrap-pagetitle">
+                        <div class="flat-pagetitle">
+                            <div class="page-title-heading">
+                                <h1 class="title" style="padding-left:170px;">{{myLists.Restaurant_Name}}</h1>
+                            </div><!-- /.page-title-captions -->
+                            <div class="breadcrumbs style2" style="padding-left:170px;">
+                                <ul>
+                                    <li><span class="glyphicon glyphicon-map-marker" style="font-size:20px;padding-right:5px;"></span>{{myLists.City}}</li>
+                                </ul>
+                            </div><!-- /.breadcrumbs -->
+                        </div>
+                    </div>
+                </div><!-- /.col-md-12 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.page-title -->
+
+    <!-- Blog posts -->
+    <section class="main-content page-listing">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <div class="listing-wrap">
+                        <div class="tf-gallery">
+                            <div class="row">
+                              <img src="assets/images/restaurant.jpg" style="width:100%;height: 430px;" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                            </div>
+                            <div class="row" style="margin-top:30px;">
+                              <div class="column" style="padding-left:3px!important;">
+                                  <img src="assets/images/detailspage.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                              </div>
+                              <div class="column">
+                                  <img src="assets/images/detailspage2.jpg" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+                              </div>
+                              <div class="column">
+                                  <img src="assets/images/detailspage.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+                              </div>
+                              <div class="column" style="padding-right:3px;">
+                                  <img src="assets/images/detailspage2.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+                              </div>
+                            </div>
+                            <div id="myModal" class="modal">
+                            <span class="close cursor" onclick="closeModal()">&times;</span>
+                            <div class="modal-content">
+
+                              <div class="mySlides">
+                                <div class="numbertext">1 / 4</div>
+                                <img src="assets/images/restaurant.jpg" style="width:100%;">
+                              </div>
+
+                              <div class="mySlides">
+                                <div class="numbertext">2 / 4</div>
+                                <img src="assets/images/detailspage2.jpg" style="width:100%; ">
+                              </div>
+
+                              <div class="mySlides">
+                                <div class="numbertext">3 / 4</div>
+                                <img src="assets/images/detailspage.jpg" style="width:100%; ">
+                              </div>
+
+                              <div class="mySlides">
+                                <div class="numbertext">4 / 4</div>
+                                <img src="assets/images/detailspage2.jpg" style="width:100%;">
+                              </div>
+
+                              <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                              <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                              <div class="caption-container">
+                                <p id="caption"></p>
+                              </div>
+
+
+                              <div class="column">
+                                <img class="demo cursor" src="assets/images/restaurant.jpg" style="width:100%;  padding:5px;" onclick="currentSlide(1)" alt="Nature and sunrise">
+                              </div>
+                              <div class="column">
+                                <img class="demo cursor" src="assets/images/detailspage2.jpg" style="width:100%;  padding:5px;" onclick="currentSlide(2)" alt="Snow">
+                              </div>
+                              <div class="column">
+                                <img class="demo cursor" src="assets/images/detailspage.jpg" style="width:100%; padding:5px;" onclick="currentSlide(3)" alt="Mountains and fjords">
+                              </div>
+                              <div class="column">
+                                <img class="demo cursor" src="assets/images/detailspage2.jpg" style="width:100%; padding:5px;" onclick="currentSlide(4)" alt="Northern Lights">
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <!-- /.tf-gallery -->
+
+                        <div id="map" style="width: 100%;height: 250px;position: relative;overflow: hidden;margin-bottom: 35px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+
+
+                        <div class="content-listing">
+                            <div class="text">
+                                <h3 class="title-listing">{{myLists.Restaurant_Name}}</h3>
+                                <ul class="rating-listing">
+                                    <li>
+                                        <div class="start-review">
+                                            <span class="flat-start">
+                                                <i class="fa fa-star" style="padding:3px;"></i>
+                                                {{myLists.Rating}} Rating
+                                            </span>
+                                          <span class="glyphicon glyphicon-thumbs-up" style="color:#4286f4; font-size:15px; padding:2px;"></span> Upvotes: <span>{{myLists.Votes}} </span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a class="heart">
+                                             <span class="glyphicon glyphicon-heart" style="padding:3px;color:red;"></span>
+                                            <span>3</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <div class="social-links">
+                                            <span>Share:</span>
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                                <div class="avgprice">
+                                    <span style="font-size:15px;padding:2px;margin-bottom:10px;">Average price for two: {{myLists.Avg_Two}}</span>
+                                </div>
+
+                                <p><strong>Address : </strong><span style="padding:2px;margin-bottom:10px;">{{myLists.Address}}</span></p>
+                                <p style="margin-top:10px;"><strong>Cuisines available : </strong><span style="padding:2px; margin-top:20px;margin-bottom:10px;">{{myLists.Cuisines}}</span></p>
+                                <p style="margin-top:10px;"><strong>Currency preffered : </strong><span style="padding:2px; margin-top:20px;margin-bottom:10px;">{{myLists.Currency}}</span></p>
+                            </div>
+                            <h3 class="title-listing">Features</h3>
+                            <div class="wrap-list clearfix">
+                                <ul class="list float-left">
+                                    <li><i class="fa fa-check" style="font-size:15px; color:#4286f4; padding:3px;"></i>Home Delivery : {{myLists.Has_Online_Delivery}}</li>
+                                    <li><i class="fa fa-check" style="font-size:15px; color:#4286f4;padding:3px;"></i>Table Booking : {{myLists.Has_Table_Booking}}</li>
+                                </ul>
+
+                            </div>
+
+                            <div class="list-comment">
+                                <h3 class="title-listing">{{ reviews.length }} Reviews</h3>
+                                <div class="comments-area" style="margin-top:30px;">
+                                    <ol *ngIf="reviews.length" class="comment-list">
+                                        <li *ngFor="let review of reviews" class="comment">
+                                            <article class="comment-body clearfix">
+                                                <div class="comment-author">
+                                                    <img src="assets/images/avatar3.png" alt="image" style="height:100px;width: 115px;padding-left: 10px;">
+                                                </div><!-- .comment-author -->
+                                                <div class="comment-text">
+                                                    <div class="comment-metadata">
+                                                        <h5><a href="#" style="text-transform: capitalize;">{{ review.name }}</a></h5>
+                                                        <p class="day">12/01/2017</p> <div class="flat-start" >
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star-half-o"></i>
+                                                        </div>
+                                                    </div><!-- .comment-metadata -->
+                                                    <div class="comment-content">
+                                                        <p>{{ review.review }}</p>
+                                                    </div><!-- .comment-content -->
+                                                </div><!-- /.comment-text -->
+                                            </article><!-- .comment-body -->
+                                        </li><!-- #comment-## -->
+                                    </ol><!-- .comment-list -->
+
+                                    <ol *ngIf="!reviews.length" class="comment-list">
+                                        <li class="comment">
+                                            <article class="comment-body clearfix">
+                                                <div class="comment-author">
+                                                    <img src="assets/images/avatar3.png" alt="image" style="height:100px;width: 115px;padding-left: 10px;">
+                                                </div><!-- .comment-author -->
+                                                <div class="comment-text">
+                                                    <div class="comment-metadata">
+                                                        <h5><a href="#">Admin</a></h5>
+                                                        <p class="day">12/01/2017</p> <div class="flat-start" >
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star-half-o"></i>
+                                                        </div>
+                                                    </div><!-- .comment-metadata -->
+                                                    <div class="comment-content">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+                                                    </div><!-- .comment-content -->
+                                                </div><!-- /.comment-text -->
+                                            </article><!-- .comment-body -->
+                                        </li><!-- #comment-## -->
+                                        <li class="comment">
+                                            <article class="comment-body clearfix">
+                                                <div class="comment-author">
+                                                    <img src="assets/images/avatar3.png" alt="image" style="height:100px;width: 115px;padding-left: 10px;">
+                                                </div><!-- .comment-author -->
+                                                <div class="comment-text">
+                                                    <div class="comment-metadata">
+                                                        <h5><a href="#">Admin</a></h5>
+                                                        <p class="day">12/01/2017</p> <div class="flat-start">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star-half-o"></i>
+                                                        </div>
+                                                    </div><!-- .comment-metadata -->
+                                                    <div class="comment-content">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+                                                    </div><!-- .comment-content -->
+                                                </div><!-- /.comment-text -->
+                                            </article><!-- .comment-body -->
+                                        </li><!-- #comment-## -->
+                                        <li class="comment">
+                                            <article class="comment-body clearfix">
+                                                <div class="comment-author">
+                                                    <img src="assets/images/avatar3.png" alt="image" style="height:100px;width: 115px;padding-left: 10px;">
+                                                </div><!-- .comment-author -->
+                                                <div class="comment-text">
+                                                    <div class="comment-metadata">
+                                                        <h5><a href="#">Admin</a></h5>
+                                                        <p class="day">12/01/2017</p> <div class="flat-start">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star-half-o"></i>
+                                                        </div>
+                                                    </div><!-- .comment-metadata -->
+                                                    <div class="comment-content">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+                                                    </div><!-- .comment-content -->
+                                                </div><!-- /.comment-text -->
+                                            </article><!-- .comment-body -->
+                                        </li><!-- #comment-## -->
+                                    </ol><!-- .comment-list -->
+
+                                    <div class="comment-respond" id="respond">
+                                        <h3 class="title-listing">Add a Review</h3>
+                                        <form novalidate="" class="comment-form clearfix" id="commentform" method="post" action="#">
+                                            <div class="wrap-input clearfix">
+                                                <p class="comment-form-email">
+                                                    <input #username type="text" placeholder="Your Name" aria-required="true" name="title">
+                                                </p>
+                                            </div>
+                                             <div class="wrap-input clearfix">
+                                                <p class="comment-form-email">
+                                                    <input #rating type="text" placeholder="Rating" aria-required="true" name="title">
+                                                </p>
+                                            </div>
+                                            <p class="comment-form-comment">
+                                                <textarea #review class="" tabindex="4" placeholder="Review" name="comment" required></textarea>
+                                            </p>
+                                            <p class="form-submit">
+                                                <button class="comment-submit effect-button" (click)="addReview()">Send Review</button>
+                                            </p>
+                                        </form>
+                                    </div><!-- /.comment-respond -->
+                                </div><!-- /.comments-area -->
+                            </div>
+
+                        </div>
+                    </div><!-- /.listing-wrap -->
+                </div><!-- /.col-lg-9 -->
+                <div class="col-lg-3">
+                    <div class="sidebar">
+                        <div class="widget widget_listing" style="margin-left: 8px;">
+                            <h5 class="widget-title">Popular Listing</h5>
+                            <ul>
+                                <li>
+                                    <div class="featured">
+                                        <a href="#" class="effect"><img src="assets/images/detailspage.jpg" alt="image" style="height: 70px;width: 80px;"></a>
+                                    </div>
+                                    <div class="info-listing">
+                                        <h6><a href="#" >Lincoln Square Steak</a></h6>
+                                        <div class="start-review">
+                                            <span class="flat-start">
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                            </span>
+                                            <a href="#" class="review">9 Reviews</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="featured">
+                                        <a href="#" class="effect"><img src="assets/images/detailspage.jpg" alt="image" style="height: 70px;width: 80px;"></a>
+                                    </div>
+                                    <div class="info-listing">
+                                        <h6><a href="#">Top 10 French coffe </a></h6>
+                                        <div class="start-review">
+                                            <span class="flat-start">
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                            </span>
+                                            <a href="#" class="review">7 Reviews</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="featured">
+                                        <a href="#" class="effect"><img src="assets/images/detailspage.jpg" alt="image"  style="height: 70px;width: 80px;"></a>
+                                    </div>
+                                    <div class="info-listing">
+                                        <h6>Top 10 French coffe </h6>
+                                        <div class="start-review">
+                                            <span class="flat-start">
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                            </span>
+                                            <a href="#" class="review">7 Reviews</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="featured">
+                                        <a href="#" class="effect"><img src="assets/images/detailspage.jpg" alt="image" style="height: 70px;width: 80px;"></a>
+                                    </div>
+                                    <div class="info-listing">
+                                        <h6><a href="#">Top 10 French coffe </a></h6>
+                                        <div class="start-review">
+                                            <span class="flat-start">
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                            </span>
+                                            <a href="#" class="review">7 Reviews</a>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="widget widget-contact" style="margin-top:178px; margin-left:8px;">
+                            <h5 class="widget-title" style="margin-left:30px;">Contact Us</h5>
+                            <ul>
+                               <li class="adress"><span class="glyphicon glyphicon-home"></span><span style="padding:12px; color:#666;"><b>{{myLists.Address}}</b></span></li>
+                               <li class="phone"><span class="glyphicon glyphicon-home"></span><span style="padding:12px;color:#666;">+61 3 8376 6284</span></li>
+                               <li class="email"><span class="glyphicon glyphicon-home"></span><span style="padding:12px;color:#666;">Yourplace@gmail.com</span></li>
+                               <li class="time"><span class="glyphicon glyphicon-home"></span>
+                                <span style="padding:12px;color:#666;">   <span>Mon - Thur:</span> 8:00 am - 10:00<br>
+                                   <span>Fri - Sat:</span> 10:00 am - 1:00 am<br>
+                                   <span>Sun: </span> 10:00 am - 10:00 pm
+                                 </span>
+                               </li>
+                           </ul>
+                           <div class="social-links" style="margin-left:30px;">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-google-plus"></i></a>
+                                <a href="#"><i class="fa fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div><!-- /.sidebar -->
+                </div><!-- /.col-md-3 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+
+
+
+
+
+
+    <!-- Go Top -->
+
+
+    </div>
+
+</body>

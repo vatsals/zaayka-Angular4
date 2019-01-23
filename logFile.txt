@@ -1,0 +1,1841 @@
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.5
+Memory Use: {"rss":38559744,"heapTotal":20291584,"heapUsed":12071848,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.52
+Memory Use: {"rss":38539264,"heapTotal":20291584,"heapUsed":12137088,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.52
+Memory Use: {"rss":38539264,"heapTotal":20291584,"heapUsed":12137088,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.52
+Memory Use: {"rss":38539264,"heapTotal":20291584,"heapUsed":12137088,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.51
+Memory Use: {"rss":38518784,"heapTotal":20291584,"heapUsed":12060960,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.51
+Memory Use: {"rss":38518784,"heapTotal":20291584,"heapUsed":12060960,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.51
+Memory Use: {"rss":38518784,"heapTotal":20291584,"heapUsed":12060960,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.51
+Memory Use: {"rss":38518784,"heapTotal":20291584,"heapUsed":12060960,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.51
+Memory Use: {"rss":38518784,"heapTotal":20291584,"heapUsed":12060960,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.51
+Memory Use: {"rss":38518784,"heapTotal":20291584,"heapUsed":12060960,"external":17953847}
+*************************************************************
+
+Directory Name: D:\nodejsExercises\train2\server\routes
+StartTimeStamp: Invalid DateFile Name: D:\nodejsExercises\train2\server\routes\api.js
+Process Version: v8.9.4
+Process Time: 0.524
+Memory Use: {"rss":38551552,"heapTotal":20291584,"heapUsed":12073408,"external":17953847}
+*************************************************************
+

@@ -1,0 +1,67 @@
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid navResp">
+    <div (click)="index()" class="navbar-header">
+      <a class="brand" style="cursor:pointer;padding-top: 13px;"><span class="navBrand" style="font-family: 'Open Sans', sans-serif;"><span class="fa fa-cutlery" style="padding-right: 10px; font-size: 24px; color: #E8280B;"></span><span style="font-size: 26px;">Zaayka</span></span></a>
+    </div>
+    <ul class="nav navbar-nav navbar-right" style="margin-right: 20px;">
+      <li style="padding-top: 8px; display: flex;flex-direction: row;align-items: center;margin-right: 20px;">
+      <h6 (click)="home()" class ="tap"style="cursor:pointer;color:white;padding-top:15px;padding-right:20px;">Home</h6>
+        <h6 (click)="Search()" class ="tap"style="cursor:pointer;color:white;padding-top:15px;padding-right:20px;">Search</h6>
+          <h6 (click)="AboutUs()"class ="tap" style="cursor:pointer;color:white;padding-top:15px;padding-right:20px;">AboutUs</h6>
+        </li>
+      <li *ngIf="currentUser()==null" style="padding-top: 8px; display: flex;flex-direction: row;align-items: center;margin-right: 20px;">
+
+        <button class="hov" type="submit" (click)="login()"><span class="border"><span class="glyphicon glyphicon-user" style="padding-right: 3px;"></span>Login</span></button>
+      </li>
+
+      <li *ngIf="currentUser()" class="dropdown dSign" style="padding-top: 8px; display: flex;flex-direction: column;align-items: center;margin-right: 20px;">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="display: flex; align-items: center; padding-top: 6px; padding-bottom: 5px; margin-right: 0px;"><span class="glyphicon glyphicon-user logIcon" style="padding-right: 5px; font-size: 21px;"></span>
+        <span class="caret"></span></a>
+        <div class="dId"><span class="cardSp" style="font-size: 13px; margin-top: 1px;margin-right: 10px; text-transform: capitalize;">{{ usrName }}</span></div>
+        <ul class="dropdown-menu" style="z-index: 999;">
+          <li style="cursor: pointer;"><a (click)="changePass($event)" [id]="usrId"><span class="glyphicon glyphicon-cog" style="padding-right: 7px; cursor: pointer;"></span>Change Password</a></li>
+          <li><a (click)="logout()"><span class="glyphicon glyphicon-off" style="padding-right: 7px; font-size: 12px;"></span>LogOut</a></li>
+        </ul>
+      </li>
+     
+    </ul>
+  </div>
+</nav>
+<div class="alert" style="display: none;" #alert>
+  <span style="display: flex; flex: 3; justify-content: flex-end;">Invalid Email/Password</span>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+</div>
+<div class="alert success" style="display: none;" #alertSucc>
+  <span style="display: flex; flex: 3; justify-content: flex-end;">Successfully Logged In</span>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+</div>
+<nav class="navbar navbar-inverse myBar" style="opacity: 1; display: none; min-height: 55px;">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" style="color: #fff; font-size: 18px;" href="#"><span class="fa fa-cutlery" style="padding-right: 10px; font-size: 18px; color: #377AB7;"></span>ZomatoApp</a>
+    </div>
+    <div #navRemove class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav pile">
+        <li>
+          <div class="mDiv" data-toggle="collapse" data-target="#demo">
+            <span class="glyphicon glyphicon-cog" style="margin-right: 7px; font-size: 14px;"></span><span class="spanIcon19">Link 1</span>
+          </div>
+          <div id="demo" class="collapse">
+            <div class="dId" id="createbranch" (click)="goto('createbranch')"><span class="glyphicon glyphicon-edit glyPlace"></span><span class="spanIcon2">Create</span></div>
+            <div class="dId" id="listbranch" (click)="goto('listbranch')"><span class="glyphicon glyphicon-list-alt glyPlace"></span><span class="spanIcon3">List</span></div>
+          </div>
+        </li>
+        <li>
+          <div class="mDiv">
+            <div (click)="goto('personalize')" id="personalize"><span class="glyphicon glyphicon-star" style="margin-right: 7px; font-size: 14px;"></span><span class="spanIcon21">Link 2</span></div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

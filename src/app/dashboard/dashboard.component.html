@@ -1,0 +1,186 @@
+<!--Dashboard starts-->
+<div class="parallax holder" style="margin-left:0px !important; margin-top:0px !important;height:301px;">
+<!--<img src="assets/images/banner_image.jpg" alt="banner" style="width:100%; position:relative;"/>-->
+
+<div class="Iam" style="display:flex; align-text:center; align-items:center; flex-direction:row; padding: 121px; margin-left: 200px; color:#32ba69; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+
+<p><b>We Let You</b></p>
+<b>
+  <div class="innerIam">
+    Think At Your Best<br />
+    Discover At Your Best<br />
+    Enjoy At Your Best<br />
+    </div>
+</b>
+
+</div>
+</div>
+
+<!--location detection code-->
+<div class="myCard outlet" style="font-family: 'Roboto';margin-top: 20px;padding: 20px; margin-left: 5%;margin-bottom:50px;">
+    <div (click)="fetchValues()" #fetch style="display: flex; justify-content: flex-end; margin: 0px; margin-bottom: 20px; align-items: center;">
+    	<p class="gInfo" style="display: flex; align-items: center; flex: 3; font-size: 19px;"><span class="glyphicon glyphicon-star" style="margin-right:5px;font-size:18px;margin-bottom:3px;color: #E8280B;"></span>Restaurants Near You!</p>
+    	<div style="display: flex; flex: 1; justify-content: flex-end;">
+    		<button (click)="search()" style="border: none; background-color: #E8280B; border-radius: 25px; color: #fff; font-size: 14px !important; margin-left: 5px;"><span class="glyphicon glyphicon-search" style="padding-right: 6px;font-size: 13px !important;"></span>Search</button>
+    	</div>
+    </div>
+<!-- location detection code ends-->
+<!-- displaying of restaurants according to location detection-->
+    <div style="display: flex;justify-content: center;margin: 8px 0px 15px 0px;align-items:  center;margin-left: 12%;">
+    	<span class="glyphicon glyphicon-globe" style="margin-right: 5px;font-size: 15px;margin-bottom: 1px;color: #E8280B;"></span><span style="font-size: 16px;">Location Detected to be </span><input type="text" disabled #city placeholder="Current Location" name="city" class="mySrh" style="display:flex;flex: 1;margin-left: 1px;font-size: 20px;max-width: 250px;border: none;color: #E8280B;font-weight: 700; background-color:#fbfbfb; margin-bottom: 0px;">
+    </div>
+    <div id="map2" style="width: 100%;height: 250px;position: relative;overflow: hidden;margin-bottom: 20px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></div>
+    <div class="tab main-content page-listing-full" id="tab" >
+      <div style="display: flex; width:100%;justify-content:flex-start; ">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-sm-6" *ngFor="let myList of myLists" style="margin-top:10px; ">
+              <div class="flat-product hov" >
+                  <div class="featured-product">
+                      <img src="assets/images/detailspage2.jpg" alt="image">
+                      <div class="rate-product">
+                          <div class="link-review clearfix" style="margin-bottom:12px!important;">
+                              <div class="button-product float-left">
+                                  <button (click)="getDetails(myList.Address)" type="button" class="ho" style="color:white; background:#e8280b;padding: 11px 27px;font-size: 14px; float:right;">Restaurant</button>
+                              </div>
+
+                          </div>
+                          <div class="info-product">
+                              <h5 class="title" style="color:white;">{{ myList.Restaurant_Name }}</h5>
+                              <p style="font-size:13px;color:#d7dae0;">{{ myList.Address }}</p>
+                              <div class="start-review float-right">
+                                  <span class="flat-start ">
+                                      <span class="glyphicon glyphicon-star" style="font-size: 13px;color: #f1c407;"></span><span [id]="'rating-' + myList.id" style="color:white; padding-left:3px;">{{ myList.Rating }}<span style="color:#d7dae0;;font-size:13px;"> Rating</span></span>
+                                  </span>
+
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="content-product">
+                      <div class="text">
+                          <p style="color:black;"><em>Nullam ultricies urna id ornare interdum. Maec enas ut suscipit mauris</em></p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <!--<pagination-controls style="display: flex; margin-top: 10px; font-size: 14px; justify-content: flex-end;" (pageChange)="p =$event" previousLabel="Previous" nextLabel="Next" screenReaderPageLabel="page" screenReaderCurrentLabel="You're on page"></pagination-controls>-->
+
+  </div>
+</div>
+</div>
+</div>
+<hr width="80%" style="border-top:1px solid #ccc!important;">
+
+<h3 style="text-align:center;margin-top: 40px;"> Our Services</h3>
+<section id="services" class="flat-row page-services" style="padding: 27px 48px 15px 41px!important;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-sm-6">
+                <div class="iconbox text-center" style="background-color:#eff1f4;">
+                    <div class="box-header fadeInDown animated">
+                      <span class="glyphicon glyphicon-cog" style="font-size:50px; color:#e8280b;"></span>
+                    </div>
+                    <div class="box-content">
+                        <div class="box-title">Setting</div>
+                        <p>Allows user to login, logout and also reset password..</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 fadeInDown">
+                <div class="iconbox text-center" style="background-color:#eff1f4;">
+                    <div class="box-header">
+                        <span class="glyphicon glyphicon-list-alt" style="font-size:50px; color:#e8280b;"></span>
+                    </div>
+                    <div class="box-content">
+                        <div class="box-title">Listing</div>
+                        <p>Allows you to list all the restaurant according your desired requirements..</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 fadeInDown">
+                <div class="iconbox text-center" style="background-color:#eff1f4;">
+                    <div class="box-header">
+                      <span class="glyphicon glyphicon-stats" style="font-size:50px; color:#e8280b;"></span>
+                    </div>
+                    <div class="box-content">
+                        <div class="box-title">Ratings</div>
+                        <p>Allows you to compare restaurants on the basis of ratings..</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 fadeInUp">
+                <div class="iconbox text-center" style="background-color:#eff1f4;">
+                    <div class="box-header">
+                        <span class="glyphicon glyphicon-search" style="font-size:50px; color:#e8280b;"></span>
+                    </div>
+                    <div class="box-content">
+                        <div class="box-title">Search</div>
+                        <p>Search your favourite restaurant according to your wish..</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 fadeInUp">
+                <div class="iconbox text-center" style="background-color:#eff1f4;">
+                    <div class="box-header">
+                        <span class="glyphicon glyphicon-file" style="font-size:50px; color:#e8280b;"></span>
+                    </div>
+                    <div class="box-content">
+                        <div class="box-title">Reviews</div>
+                        <p>Adding your valuable reviews on the restaurants you wish to.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 fadeInUp">
+                <div class="iconbox text-center" style="background-color:#eff1f4;">
+                    <div class="box-header">
+                      <span class="glyphicon glyphicon-camera" style="font-size:50px; color:#e8280b;"></span>
+                    </div>
+                    <div class="box-content">
+                        <div class="box-title">Gallery</div>
+                        <p>Allows you to see all pics of the restaurant even in enlarged form in the details page ..</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<hr width="80%" style="border-top:1px solid #ccc!important;">
+<h3 style="text-align:center;margin-top: 60px;margin-bottom: 60px;"> We love offering you Goodies!!</h3>
+<div class="container" style="margin-bottom: 140px;">
+  <div class="row">
+    <div class="col-sm-6">
+<div class="coupon">
+  <div class="container123">
+    <h3 style="text-align:center;padding-top: 15px;">Offer 1</h3>
+  </div>
+  <img src="assets/images/burger.jpg" alt="Avatar" style="width:70%; margin-left:60px;">
+  <div class="container" style="background-color:white">
+    <h6 style="text-align:center;"><b>20% OFF YOUR PURCHASE</b></h6>
+    <p>You are our favourite customer.. Here is a treat for you from are team!</p>
+  </div>
+  <div class="container">
+    <p>Use Promo Code: <span class="promo">BOH232</span></p>
+    <p class="expire">Expires: Jan 03, 2017</p>
+  </div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="coupon">
+<div class="container123">
+  <h3 style="padding-top: 15px;text-align:center;">Offer 1</h3>
+</div>
+<img src="assets/images/coupon.jpg" alt="Avatar" style="width:70%; margin-left:60px;margin-bottom:4px;">
+<div class="container" style="background-color:white">
+<h6 style="padding-top:5px;text-align:center;"><b>15% CASHBACK ON PAYTM</b></h6>
+<p>Pay through your Paytm account and get 15% cashback.. </p>
+</div>
+<div class="container">
+<p>Use Promo Code: <span class="promo">PT232</span></p>
+<p class="expire">Expires: Aug 04, 2018</p>
+</div>
+</div>
+</div>
+</div>
+</div>

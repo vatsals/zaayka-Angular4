@@ -1,0 +1,85 @@
+<div style="margin-left:0px !important; margin-top:0px !important;">
+<img src="assets/images/details.jpg" alt="banner" style="width:100%; background-color:black;"/>
+</div>
+<div class="myCard outlet" style="font-family: 'Roboto';margin-top: 20px;padding: 20px;">
+    <div class="mainTab">
+    	<p class="gInfo" style="display: flex; align-items: center; flex: 1; font-size: 19px;"><span class="glyphicon glyphicon-filter" style="margin-right:5px;font-size:18px;margin-bottom:3px;color: #E8280B;"></span>Filters</p>
+    	<div class="filterTab">
+		  	<div class="form-group mClass tabIndi">
+		        <select (change)="fetchCityRests()" #country name="country" class="selectClass" style="flex: 4;margin-bottom: 2px;">
+		          <option [value]="999" disabled style="text-transform: capitalize;">
+		          Select Country
+		          </option>
+		          <option *ngFor="let country of countrys" [value]="country.Country" style="text-transform:capitalize;">
+		          {{country.Country}}
+		          </option>
+		        </select>
+		    </div>
+		    <div class="form-group mClass tabIndi">
+		  		<select (change)="fetchRests()" #city name="city" class="selectClass" style="flex: 4;margin-bottom: 2px;">
+		          <option [value]="999" disabled style="text-transform: capitalize;">
+		          Select City
+		          </option>
+		          <option *ngFor="let city of citys" [value]="city" style="text-transform: capitalize;">
+		          {{city}}
+		          </option>
+		        </select>
+		    </div>
+		    <div style="display: flex; align-items: center; flex: 1; justify-content: flex-end;">
+		    	<input type="text" #name (input)="fetchRestsName()" placeholder="Search.." name="search" class="mySrh" style="margin-bottom: 2px;padding: 5px;margin-left: 5px;width: 100%;max-height: 35px;margin-top: 0px;font-size: 13px;border: 1px solid #ccc;">
+		    </div>
+		    <button (click)="reset()" class="rset"><span class="glyphicon glyphicon-edit" style="padding-right: 6px;font-size: 14px !important;"></span>Reset</button>
+		</div>
+    </div>
+    <div id="checkTab" style="display: none; flex-direction: row; margin-top: 6px; margin-bottom: 10px;">
+    	<div style="display: flex; flex: 3;"></div>
+	    <div style="display: flex; align-items: center; flex: 1; justify-content: flex-end;">
+		    <label class="container dayWeek">Delivery
+	          <input (change)="fetchDelivery()" type="checkbox" name="cBox" value="Delivery" id="1">
+	          <span class="checkmark"></span>
+	        </label>
+	    </div>
+	    <div style="display: flex; align-items: center; flex: 2; justify-content: flex-end;">
+		    <div class="form-group mClass" style="display: flex; flex: 2; margin-bottom: 0px; padding: 0px;">
+		  		<select (change)="fetchCuisine()" #cuisine name="cuisine" class="selectClass" style="flex: 4;height: 30px;font-size: 14px; margin-bottom: 2px;">
+		          <option [value]="999" disabled style="text-transform: capitalize;">
+		          Select Cuisine
+		          </option>
+		          <option *ngFor="let cuisine of cuisines" [value]="cuisine" style="text-transform: capitalize;">
+		          {{cuisine}}
+		          </option>
+		        </select>
+		    </div>
+		</div>
+		<div style="display: flex; flex: 2;"></div>
+	</div>
+    <div class="tab" id="tab" style="margin-top: 20px;">
+      <div *ngFor="let myList of myLists | paginate: { itemsPerPage: 10, currentPage: p }" style="display: flex; width:100%;justify-content:flex-start; ">
+      <div class="listing-list" style="width: 100%;">
+          <div class="row flat-product clearfix" style="margin-left:5px; margin-right:10px;">
+              <div class="featured-product" style="display-flex:flex:1;" >
+                  <img src="assets/images/abc.jpg" class=" myImg" alt="image" style="border-radius: 5px;height: 250px;width: 350px;padding: 8px;">
+              </div>
+              <div class="rate-product" style="display-flex:flex:2;">
+                      <div class="link-review clearfix">
+                          <div class="button-product float-left">
+                              <button (click)="getDetails(myList.Address)" type="button" class="flat-button">Restaurant</button>
+                          </div>
+
+                      </div>
+                      <div class="info-product">
+                        <h6 class="title">{{ myList.Restaurant_Name }}</h6>
+                          <p class="pTitle">{{ myList.Address }}</p>
+                      </div>
+                      <div class="start-review">
+                          <span class="glyphicon glyphicon-star" style="margin-right: 4px;font-size: 13px;margin-bottom:3px;color: #FFC600; margin:top:4px;"></span><span class="padLft" [id]="'rating-' + myList.id" style="font-size: 13px !important;font-weight: 200;text-transform: capitalize;padding-left: 0px;">{{ myList.Rating }}</span>
+
+                      </div>
+                  </div>
+          </div>
+        </div>
+      </div>
+
+      <pagination-controls style="display: flex; margin-top: 10px; font-size: 14px;justify-content: flex-end;" (pageChange)="p =$event" previousLabel="Previous" nextLabel="Next" screenReaderPageLabel="page" screenReaderCurrentLabel="You're on page"></pagination-controls>
+  </div>
+</div>

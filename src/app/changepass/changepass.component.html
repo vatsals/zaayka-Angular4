@@ -1,0 +1,45 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3"></div>
+    <div class="col-sm-6 myCard" style="font-family: 'Roboto'; margin-top: 20px;">
+      <div style="display: flex; justify-content: flex-end; margin: 0px; margin-bottom: 35px; align-items: center;">
+        <p class="gInfo" style="display: flex; align-items: center; flex: 3;padding-left: 40px;padding-top:35px; font-size: 19px;">
+          <span class="glyphicon glyphicon-cog" style="margin-right: 6px;color:#E8280B!important;font-size: 20px;margin-bottom: 3px;color: #197CD3;"></span>Reset Password</p>
+
+      </div>
+      <div class="tab" id="received" #recd>
+        <form novalidate #f2="ngForm" (ngSubmit)="onSubmitForm(f2)" class="form-inline" style="display: flex; flex-direction: column;">
+          <div class="form-group mClass">
+            <span class="sClass">Old Password
+              <span style="color: #D84747;padding-left: 3px;opacity: 0.92;">*</span>
+            </span>
+            <input #oldpass name="oldpass" type="password" class="form-control myCompany" style="padding: 8px;font-size: 14px;border: 1px solid #ccc;display: flex;flex: 4;"
+              id="company1" placeholder="Enter Old Password">
+          </div>
+          <div class="form-group mClass">
+            <span class="sClass">New Password
+              <span style="color: #D84747;padding-left: 3px;opacity: 0.92;">*</span>
+            </span>
+            <input #newpass name="newpass" type="password" class="form-control myCompany" style="padding: 8px;font-size: 14px;border: 1px solid #ccc;display: flex;flex: 4;"
+              id="company2" placeholder="Enter New Password">
+          </div>
+          <div class="form-group mClass">
+            <span class="sClass">Confirm Password
+              <span style="color: #D84747;padding-left: 3px;opacity: 0.92;">*</span>
+            </span>
+            <input #confpass name="confpass" type="password" class="form-control myCompany" style="padding: 8px;font-size: 14px;border: 1px solid #ccc;display: flex;flex: 4;"
+              id="company3" placeholder="Enter Confirm Password">
+          </div>
+          <div class="mainButton" style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 10px; flex-direction: row; align-items: center;">
+            <button type="submit" style="border: none; margin-right: 15px;padding: 12px 12px; background-color: #0EAD69; border-radius: 1px; color: #fff; font-size: 16px;">
+              <span class="glyphicon glyphicon-ok" style="padding-right: 6px;font-size: 14px;"></span>Update</button>
+            <button (click)="reset()" style="background-color: #197CD3!important; border-radius:0px!important;font-size:16px;padding: 1px 15px">
+              <span class="glyphicon glyphicon-edit" style="padding: 12px 12px;font-size: 16px !important;"></span>Reset</button>
+
+          </div>
+        </form>
+      </div>
+    </div>
+    <div class="col-sm-3"></div>
+  </div>
+</div>
